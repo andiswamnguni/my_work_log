@@ -1,0 +1,19 @@
+August 2025 Monthly Worklog
+
+Summary of What I Worked On
+- Built interactive front-end projects using HTML, CSS, and JavaScript.
+- Developed a calculator, form validation logic, and dynamic to-do list with Local Storage.
+
+Achievements
+- Improved my JS DOM skills.
+- Successfully pushed projects to GitHub.
+- Completed all ALX front-end sprint tasks for August.
+
+Learnings from Challenges
+- Faced bugs in async functions but learned to debug using `console.log()` and Chrome DevTools.
+- Git errors taught me the importance of organizing commits and branches.
+
+Highlights
+- Built my first interactive web app!
+- Gained confidence in coding independently.
+- Joined a great tech community on Discord.
